@@ -43,7 +43,7 @@ Every project I create teaches me something new — one step closer to mastering
 A lightweight AI + Flask project created during my **Infosys Springboard AI Virtual Internship**.  
 It extracts and highlights essential clauses from contract documents, helping simplify the review process.
 
-🔗 *Add your GitHub repo link here*
+🔗 *https://github.com/Lakshvpriya2005/ClauseEase_Project*
 
 ---
 
