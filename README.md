@@ -1,51 +1,49 @@
-<h1 align="center">Hi, I'm Lakshvipriya 👋</h1>
-<h3 align="center">A CSE Student exploring technology one step at a time</h3>
+<h1 align="center">✨ Lakshmipriya ✨</h1>
+<h3 align="center">CSE Student • Curious Mind • Quietly Building My Path in Tech</h3>
 
 ---
 
-## ✨ A Little About Me  
-I'm a 3rd-year Computer Science student who enjoys learning by building and experimenting.  
-I like simple, neat, and practical approaches to coding.  
-Currently improving my foundation in Python, web development basics, and AI concepts through hands-on practice.
+## 🔮 My Journey So Far  
+I’m a third-year Computer Science student exploring how software is created, improved, and brought to life.  
+I enjoy experimenting with ideas, building small meaningful projects, and learning things at a steady and comfortable pace.  
+Every project I create teaches me something new — one step closer to mastering the craft.
 
 ---
 
-## 🧠 What I’m Learning Right Now  
-- Strengthening Python fundamentals  
-- Understanding how web applications work  
-- Exploring basic AI concepts through small projects  
-- Trying out different tech areas to discover what suits me best  
+## 🔭 What I’m Currently Exploring  
+- Python development  
+- Web application fundamentals  
+- AI basics through simple hands-on work  
+- Experimenting with different tech domains  
 
 ---
 
-## 🛠 My Toolset  
+## 🛠 Technical Stack  
 
-### Languages  
-- Python  
-- C  
-- HTML  
-- CSS  
+### **Languages**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3C78A9?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C_Programming-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-F06529?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-### Development Tools  
-- VS Code  
-- Git  
-- GitHub  
-
----
-
-## 🏆 Highlights  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lakshvipriya2005&theme=flat&no-frame=true&row=1&margin-w=10" />
+### **Tools & Platforms**  
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 📂 Projects I’ve Built  
-### **ClauseEase – AI-Based Contract Clause Extractor**  
-A simple AI + Flask web application created during my **Infosys Springboard AI Virtual Internship**.  
-It extracts and displays important clauses from contract documents, making them easier to understand and review.
+## 📂 Featured Project  
 
-🔗 *Add your repo link here*
+### **ClauseEase — AI-Based Contract Clause Extractor**  
+A lightweight AI + Flask project created during my **Infosys Springboard AI Virtual Internship**.  
+It extracts and highlights essential clauses from contract documents, helping simplify the review process.
+
+🔗 *Add your GitHub repo link here*
 
 ---
 
@@ -56,20 +54,13 @@ It extracts and displays important clauses from contract documents, making them 
 
 ---
 
-## 📊 My GitHub Space  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lakshvipriya2005&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshvipriya2005&theme=tokyonight" width="48%" />
-</p>
-
----
-
 ## 🤝 Let’s Connect  
-If you'd like to talk, collaborate, or just say hello — feel free to reach out.
+If you'd like to collaborate or just say hello — feel free to reach out.
 
-📧 Email: *add your email*  
-🔗 LinkedIn: *add your LinkedIn link*
+📧 Email — *lakshvpriya@gmail.com*  
+🔗 LinkedIn — *www.linkedin.com/in/lakshmipriya3*
+
 
 ---
 
-<p align="center">Thanks for visiting 🤍</p>
+<p align="center">✨ Thanks for visiting ✨</p>
