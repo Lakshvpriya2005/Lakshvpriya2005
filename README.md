@@ -1,4 +1,4 @@
-<h1 align="center">✨ Lakshmipriya ✨</h1>
+<h1 align="center">✨ Lakshmipriya V ✨</h1>
 <h3 align="center">CSE Student • Curious Mind • Quietly Building My Path in Tech</h3>
 
 ---
